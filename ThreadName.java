@@ -1,4 +1,4 @@
-class t extends Thread
+ class t extends Thread
 {
 
     @Override
@@ -8,7 +8,6 @@ class t extends Thread
     }
 
 }
-
 
 public class ThreadName {
 
@@ -29,11 +28,5 @@ public class ThreadName {
     t4.start();
         
     }
-
-
-  
-
-    
-
     
 }
