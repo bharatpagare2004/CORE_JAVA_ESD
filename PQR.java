@@ -12,8 +12,6 @@ interface xyz{
 }
 public class PQR implements abc,xyz 
 {
-
-
     public void m1() {
         abc.super.m1();
         // xyz.super.m1();
